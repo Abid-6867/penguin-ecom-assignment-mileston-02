@@ -82,3 +82,12 @@ logo-option img {
    color: navy;
 }
 
+.menu-design li a {
+
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+
